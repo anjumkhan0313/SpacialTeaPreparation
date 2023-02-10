@@ -1,4 +1,14 @@
+<<<<<<< HEAD
  milk 2 cup 
  sugar 2 tis pun 
  tea powder 2 tis pun 
  water 1/2 cup 
+=======
+all data for making spacial tea 
+
+1) 10 cup milk 
+2) 2 cup water
+3) 10 tis pun tea powder
+4) 11 tis pun sugar
+
+>>>>>>> 1b90e8ae683dbbded9b7f6ff43b05a47e7461616
